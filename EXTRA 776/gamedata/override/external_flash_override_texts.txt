@@ -1,0 +1,6 @@
+habbo=habbo
+purse.seasonal.currency=Retro Points
+notification.hotel.event.title=Event Invite
+notification.hotel.event.message=%MESSAGE%
+notification.hotel.event.linkTitle=Join %ROOMNAME%
+notification.hotel.event.linkUrl=event:navigator/goto/%ROOMID%

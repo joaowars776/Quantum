@@ -1,0 +1,8 @@
+﻿¡Bienvenido a Xetros!
+<span class="padding-bottom"><br><h1><span class="red">Xetros Hotel</span></h1></span>
+<h3><span class="info"><img src="https://beeimg.com/images/o87683903144.png"></span></h3><br>
+<h2><span class="red">¡Bienvenid@s a la comunidad Xetros!, Aqui marcaremos un comienzo de una nueva Era.</span></h2>
+
+<p class="bullet-item">·&nbsp; Les deseamos una gran bienvenida a nuestra <b>comunidad Xetros!</b></p>
+<span class="padding-bottom"><br></span>
+<br>

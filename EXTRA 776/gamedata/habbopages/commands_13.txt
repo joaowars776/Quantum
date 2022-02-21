@@ -1,0 +1,147 @@
+Your Commands
+<h2>Your Commands (144)</h2>
+<ul><li>:test [header] i:1 s:a b:1</li>
+<li>commands.description.cmd_add_youtube_playlist</li>
+<li>:afk</li>
+<li>:alert (username) (message)</li>
+<li>Enables / Disables the tradelock for a user.</li>
+<li>:badge (username) (badge)</li>
+<li>:ban (username) (time in seconds)</li>
+<li>commands.description.cmd_blizzard_reload</li>
+<li>:blockalert</li>
+<li>:bots</li>
+<li>:brb</li>
+<li>:bubblealert (type)</li>
+<li>:buildheight [height]</li>
+<li>:bundle</li>
+<li>:buyroom</li>
+<li>:calendar</li>
+<li>:changename</li>
+<li>:chat [colorid = 0]</li>
+<li>:closedice [all]</li>
+<li>:commands</li>
+<li>:commands</li>
+<li>:connectcamera</li>
+<li>:control (username)</li>
+<li>:coords</li>
+<li>:copyroom</li>
+<li>:credits (username) (amount)</li>
+<li>:dance</li>
+<li>:danceall (dance id)</li>
+<li>:diagonal</li>
+<li>:disconnect (username)</li>
+<li>:duckets (username) (amount)</li>
+<li>:ejectall</li>
+<li>:empty (username)</li>
+<li>:emptybots</li>
+<li>:emptypets</li>
+<li>:enable (effect id)</li>
+<li>:event (message)</li>
+<li>:faceless</li>
+<li>:fastwalk</li>
+<li>:filter (word) [replacement]</li>
+<li>:findfurni</li>
+<li>:freeze (username)</li>
+<li>:freezebots</li>
+<li>:freezeroom</li>
+<li>:furnidata</li>
+<li>:gift (username) (itemid)</li>
+<li>commands.description.cmd_give_color_name</li>
+<li>:win (username) (prize_type)</li>
+<li>:giverank (username) (rank)</li>
+<li>:ha (message)</li>
+<li>:hal (url) (message)</li>
+<li>:handitem (itemid)</li>
+<li>:happyhour</li>
+<li>commands.description.cmd_hidewired</li>
+<li>:hug (username)</li>
+<li>:invisible</li>
+<li>:ipban (username) [reason]</li>
+<li>:kickall (message)</li>
+<li>commands.description.cmd_leaderboard</li>
+<li>:machineban (username) [reason]</li>
+<li>:casino</li>
+<li>:massbadge (badge)</li>
+<li>:masscredits (amount)</li>
+<li>:massduckets (amount)</li>
+<li>:massgift (itemid)</li>
+<li>:masspoints (amount) [type] </li>
+<li>:mimic (username)</li>
+<li>:moonwalk</li>
+<li>:multi</li>
+<li>:mute (username)</li>
+<li>:nuke (username)</li>
+<li>:whosonline</li>
+<li>:pay (username) (amount) (currency)</li>
+<li>:petinfo (petname)</li>
+<li>:pickall</li>
+<li>:points (username) (amount) [type]</li>
+<li>:promoteoffer (offer_id) [info]</li>
+<li>:pull (username)</li>
+<li>:pull (username)</li>
+<li>:push (username)</li>
+<li>:push (username)</li>
+<li>:redeem</li>
+<li>commands.description.cmd_reload_colors</li>
+<li>:reload_room</li>
+<li>:rolldice</li>
+<li>:roomalert (message)</li>
+<li>:roomcredits (amount)</li>
+<li>:roomeffect [effect id]</li>
+<li>:roomitem [itemid]</li>
+<li>:roommute</li>
+<li>:roompixels (amount)</li>
+<li>:roompoints (amount)</li>
+<li>:roompublic (roomid)</li>
+<li>:say (username) (text)</li>
+<li>:sayall (message)</li>
+<li>:sellroom (diamonds)</li>
+<li>:setpoll (id)</li>
+<li>:setmax (amount)</li>
+<li>:setspeed (speed)</li>
+<li>:makeshout (username) (text)</li>
+<li>:shoutall (message)</li>
+<li>:shutdown</li>
+<li>:sitdown</li>
+<li>:slime (username)</li>
+<li>commands.description.cmd_softkick</li>
+<li>:sA (message)</li>
+<li>:staffonline [minrank]</li>
+<li>:stalk (username)</li>
+<li>:stats</li>
+<li>:summon (username)</li>
+<li>:summonrank (rankid)</li>
+<li>:superban (username) [reason]</li>
+<li>:spull (username)</li>
+<li>:spull (username)</li>
+<li>:spull (username)</li>
+<li>commands.description.cmd_superpush</li>
+<li>:takebadge (username) (badge)</li>
+<li>:takeroom</li>
+<li>:teleport</li>
+<li>:tptome (username)</li>
+<li>:transform (name) (race) (color)</li>
+<li>:trash</li>
+<li>:unban (username)</li>
+<li>:unload</li>
+<li>:unmute (username)</li>
+<li>:update_achievements</li>
+<li>:update_bots</li>
+<li>:update_catalog</li>
+<li>:update_config</li>
+<li>:update_guild_parts</li>
+<li>:update_hotel_view</li>
+<li>:update_items</li>
+<li>:update_navigator</li>
+<li>:update_permissions</li>
+<li>:update_petdata</li>
+<li>:update_plugins</li>
+<li>:update_polls</li>
+<li>:update_texts</li>
+<li>:update_word_filter</li>
+<li>commands.description.cmd_update_youtube_playlists</li>
+<li>:userinfo (username)</li>
+<li>:welcome (username)</li>
+<li>:wordquiz (question)</li>
+<li>:superpush</li>
+</ul>
