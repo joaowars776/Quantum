@@ -1,4 +1,4 @@
-# Quantum
+# Quantum Habbo Emulator
 # Quantum+ 6.6.4.0
 
 # Plus Emulator with Websocket
